@@ -1,20 +1,2 @@
-# Core Django (Python 3.12 compatible)
-Django>=5.0.6,<5.1.0  # First Django LTS with full Py3.12 support
-djangorestframework>=3.15.1,<3.16.0
-
-# Database (psycopg3 with Py3.12 wheels)
-psycopg[binary]>=3.1.18,<3.2.0  # Native Py3.12 support
-
-# API Ecosystem
-
-# Async Support (Py3.12 native)
-
-
-# Development
-
-
-# Production
-
-
-# Python 3.12 Specific
-
+Django>=3.2.4,<3.3
+djangorestframework>=3.12.4,<3.13
